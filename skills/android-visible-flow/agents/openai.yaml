@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Visible Flow"
+  short_description: "Build and test PC-driven Android UI workflows"
+  default_prompt: "Use $android-visible-flow to build and validate a PC-driven Android visible UI workflow."

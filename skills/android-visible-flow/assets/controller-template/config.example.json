@@ -1,0 +1,26 @@
+{
+  "device_serial": "ANDROID_DEVICE_SERIAL",
+  "sale_time": null,
+  "lead_ms": 350,
+  "session": {
+    "text": "08月",
+    "fallback_index": 0
+  },
+  "price": {
+    "text": "780",
+    "fallback_index": 3
+  },
+  "attendees": [
+    "请替换为大麦中已保存的观演人姓名"
+  ],
+  "detail_button": {
+    "x_ratio": 0.720,
+    "y_ratio": 0.932
+  },
+  "action_interval_ms": 70,
+  "transition_timeout_ms": 1400,
+  "detail_retry_count": 6,
+  "busy_retry_count": 20,
+  "busy_retry_interval_ms": 160,
+  "verification_wait_seconds": 180
+}
